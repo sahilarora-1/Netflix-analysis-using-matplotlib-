@@ -40,8 +40,7 @@ Shows the top 10 countries with the most content on Netflix.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/netflix-analysis.git
-
+git clone https://github.com/sahilarora-1/Netflix-analysis-using-matplotlib-.git
 
 Install dependencies:
 
